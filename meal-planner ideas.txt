@@ -1,0 +1,10 @@
+Basic app
+	Suggests meals for 7 days from a table of meals. 
+	Table can be added to by the user. 
+
+Advanced options
+	selection on number of days to plan for
+	better randomisation for avoiding repetition of meals
+	check the previous week so that the same meals don't appear again
+	option to swap out the meals individually
+	option to select a meal from the list (dropdown?)
